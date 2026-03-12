@@ -183,6 +183,6 @@ Example run of the GitHub Actions pipeline where all steps pass.
 
 ### VM in GCP
 
-The deployed VM shown in the GCP console.
+The deployed VM listed using the gcloud CLI.
 
 ![VM](screenshots/gcp-vm.png)
