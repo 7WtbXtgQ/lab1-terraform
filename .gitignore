@@ -5,3 +5,10 @@
 terraform.tfvars
 *.tfvars
 !example.tfvars
+
+# GCP credentials
+gcp-key.json
+*.gcp.json
+service-account*.json
+*_credentials.json
+application_default_credentials.json
